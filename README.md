@@ -1,7 +1,10 @@
 # Data-
 
 Welcome to Data Visualization repository!!.....
+
 Tableau is used to visualize the data.
+
+Note: For viewing these files, open with Tableau.
 
 # COVID19
 ---------
